@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Minecraft version
-VERSION=1.17.1
+VERSION=1.16.3
 
 set -e
 root=$PWD
